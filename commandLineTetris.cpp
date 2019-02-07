@@ -85,6 +85,23 @@ int main()
 	SetConsoleActiveScreenBuffer(hConsole);
 	DWORD dwBytesWritten = 0;
 	
+	bool isGameOver = false;
+
+	while (!isGameOver) {
+		//Game timing ##################
+
+
+		// User Input ##################
+
+		// Game Logic ##################
+
+
+		// Render Output #################
+		
+		
+	
+	
+	}
 
 	return 0;
 }
